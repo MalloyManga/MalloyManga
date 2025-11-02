@@ -16,7 +16,7 @@ Also a passionate manga lover — I find comfort and inspiration in stories that
 
 - Frontend: Vue, Nuxt, React, TailwindCSS
 - Backend: Node.js, NestJS
-- Design: UI/UX fundamentals and creative coding
+- Design: UI/UX fundamentals and pixel art design
 
 ---
 
@@ -28,6 +28,7 @@ you’re always welcome to reach out!
 
 - ✉️ Email: mailto:li3210361050@gmail.com
 - 🌐 Website: https://malloymanga.github.io/AboutMalloy/
+- 🎨 Art: https://malloymanga.github.io/McRenders/
 - Jike: https://okjk.co/6Gx97S
 
 ---
