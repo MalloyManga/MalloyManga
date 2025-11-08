@@ -27,7 +27,7 @@ If you’d like to collaborate or just say hi —
 you’re always welcome to reach out!
 
 - ✉️ Email: mailto:li3210361050@gmail.com
-- 🌐 Website: https://malloymanga.github.io/AboutMalloy/
+- 🌐 Website: https://malloymanga.github.io/
 - 🎨 Art: https://malloymanga.github.io/McRenders/
 - Jike: https://okjk.co/6Gx97S
 
