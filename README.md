@@ -33,5 +33,5 @@ you’re always welcome to reach out!
 
 ---
 
-> “Still learning, still dreaming — wishing you good dreams.”
+> 🌌 📚 🚴 🍻 🌅 📷 🥤 🤟
 >
